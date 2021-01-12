@@ -5,3 +5,5 @@ def diff21(n):
         return abs(n - 21)
     elif abs(n > 21):
         return abs(n - 21 * 2)
+
+        print(diff21(19))
